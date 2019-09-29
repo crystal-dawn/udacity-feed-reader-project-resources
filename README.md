@@ -1,4 +1,4 @@
-# [Feed Reader Testing Resources]https://crystal-dawn.github.io/udacity-feed-reader-project-resources/)
+# [Feed Reader Testing Resources](https://crystal-dawn.github.io/udacity-feed-reader-project-resources/)
 
 ## Overview
 This is a collection of resources which students found useful to complete the Feed Reader Testing Project for the Udacity Front End Developer Nanodegree project. Contributions can be submitted as a pull request to [resources.js](https://github.com/crystal-dawn/udacity-fend-feed-reader-testing-resources.git/src/resources.js).
